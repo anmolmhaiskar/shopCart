@@ -1,0 +1,13 @@
+com\anmol\shopcart\dao\CategoryDao.class
+com\anmol\shopcart\entities\Product.class
+com\anmol\shopcart\servlets\LogoutServlet.class
+com\anmol\shopcart\servlets\ProductOperationServlet.class
+com\anmol\shopcart\JakartaRestConfiguration.class
+com\anmol\shopcart\dao\UserDao.class
+com\anmol\shopcart\entities\User.class
+com\anmol\shopcart\helper\FactoryProvider.class
+com\anmol\shopcart\servlets\LoginServlet.class
+com\anmol\shopcart\dao\ProductDao.class
+com\anmol\shopcart\resources\JakartaEE10Resource.class
+com\anmol\shopcart\entities\Category.class
+com\anmol\shopcart\servlets\RegisterServlet.class
